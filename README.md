@@ -1,2 +1,2 @@
 # testrepo
-repo tesytel;se a github/ban
+repo tesztje a github/ban
